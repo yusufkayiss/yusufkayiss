@@ -30,5 +30,4 @@ Passionate Backend Engineer focused on building scalable event-driven architectu
 ### 📫 Let's Connect!
 
 - 💼 **LinkedIn:** [linkedin.com/in/yusuftahakayis](https://linkedin.com/in/yusuftahakayis)
-- 📁 **GitHub:** [github.com/yusufkayiss](https://github.com/yusufkayiss)
 - 📧 **Email:** [kayissyusuf@gmail.com](mailto:kayissyusuf@gmail.com)
