@@ -6,19 +6,38 @@ Passionate Backend Engineer focused on building scalable event-driven architectu
 
 ---
 
-### 🛠 Tech Stack & Skills
+### ⚙️ Tech Stack
 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-- **Languages & Frameworks:** C#, Java, .NET 8, Spring Boot 3, Entity Framework Core, Spring Data JPA
-- **Architecture & Patterns:** Event-Driven Architecture, REST API Design, Clean Architecture, SOLID, DTO Pattern
-- **DevOps & Infrastructure:** Docker, Docker Compose, RabbitMQ, GitHub Actions (CI/CD), xUnit, Maven
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>Backend</h4>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,rabbitmq" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>Databases</h4>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=postgres,redis,mongodb" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>Cloud • DevOps</h4>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=docker,githubactions,linux" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>Tools & Build</h4>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=git,github,maven" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -32,9 +51,15 @@ Passionate Backend Engineer focused on building scalable event-driven architectu
 
 ---
 
-### 📊 GitHub Activity & Streak
+### 📊 Stats
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=yusufkayiss&theme=dark&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yusufkayiss&show_icons=true&theme=dark" width="100%" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufkayiss&layout=compact&theme=dark" width="100%" alt="Top Languages" />
+</p>
 
 ---
 
