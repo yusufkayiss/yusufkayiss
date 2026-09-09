@@ -34,10 +34,10 @@ Passionate Backend Engineer focused on building scalable event-driven architectu
 
 ### 📊 GitHub İstatistikleri
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yusufkayiss&show_icons=true&theme=dark&hide_border=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufkayiss&layout=compact&theme=dark&hide_border=true" height="165" alt="Top Languages" />
-</p>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=yusufkayiss&show_icons=true&theme=dark&hide_border=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufkayiss&layout=compact&theme=dark&hide_border=true" height="150" alt="Top Languages" />
+</div>
 
 ---
 
