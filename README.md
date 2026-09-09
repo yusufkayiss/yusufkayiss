@@ -53,10 +53,11 @@ Passionate Backend Engineer focused on building scalable event-driven architectu
 
 ### 📊 Stats
 
-![Yusuf Taha Kayış GitHub Stats](https://github-readme-stats.vercel.app/api?username=yusufkayiss&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+![Yusuf Taha Kayış GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=yusufkayiss&show_icons=true&theme=tokyonight&hide_border=false)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yusufkayiss&theme=tokyonight&hide_border=false)
+![Most Used Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yusufkayiss&layout=compact&theme=tokyonight&hide_border=false)
 
+![GitHub Streak](https://streak-stats.demolab.com/?user=yusufkayiss&theme=tokyonight&hide_border=false)
 ---
 
 ### 📫 Let's Connect!
