@@ -8,10 +8,10 @@ Passionate Backend Engineer focused on building scalable event-driven architectu
 
 ### 🛠 Tech Stack & Skills
 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white&v=999)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -29,6 +29,15 @@ Passionate Backend Engineer focused on building scalable event-driven architectu
 | 🎬 **[VideoProcessing](https://github.com/yusufkayiss/VideoProcessing)** | Event-driven asynchronous video processing architecture offloading heavy tasks from Web API. | `.NET 8`, `RabbitMQ`, `Worker Service`, `Docker Compose` | [![.NET 8 CI](https://github.com/yusufkayiss/VideoProcessing/actions/workflows/dotnet.yml/badge.svg)](https://github.com/yusufkayiss/VideoProcessing) |
 | ⚙️ **[VideoCodec Engine](https://github.com/yusufkayiss/VideoCodec)** | High-performance core transcoding and processing engine designed for decoupled scalability. | `.NET 8`, `FFmpeg`, `xUnit`, `SOLID Principles` | [![.NET Core Codec CI & Tests](https://github.com/yusufkayiss/VideoCodec/actions/workflows/dotnet.yml/badge.svg)](https://github.com/yusufkayiss/VideoCodec) |
 | 🛒 **[E-Commerce Core API](https://github.com/yusufkayiss/ecommerce-core-api)** | Secure, production-ready enterprise REST API with transactional order and inventory controls. | `Java 17`, `Spring Boot 3`, `JWT`, `Spring Security` | [![Java CI with Maven](https://github.com/yusufkayiss/ecommerce-core-api/actions/workflows/maven.yml/badge.svg)](https://github.com/yusufkayiss/ecommerce-core-api) |
+
+---
+
+### 📊 GitHub İstatistikleri
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=yusufkayiss&show_icons=true&theme=dark&hide_border=true" alt="Yusuf's GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufkayiss&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="49%" />
+</p>
 
 ---
 
