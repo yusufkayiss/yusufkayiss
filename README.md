@@ -1,4 +1,4 @@
-![](./profile-3d-contrib/profile-night-view.svg)
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 # Hi there, I'm Yusuf Taha Kayış 👋
 
