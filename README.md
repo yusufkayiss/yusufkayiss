@@ -1,5 +1,3 @@
-![](./profile-3d-contrib/profile-night-rainbow.svg)
-
 # Hi there, I'm Yusuf Taha Kayış 👋
 
 ### 🚀 Backend Software Engineer | .NET & Java/Spring Boot Ecosystems
