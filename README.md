@@ -45,9 +45,9 @@ Passionate Backend Engineer focused on building scalable event-driven architectu
 
 | Project | Description | Tech Stack | Build & Test Status |
 | :--- | :--- | :--- | :---: |
-| 🎬 **[VideoProcessing](https://github.com/yusufkayiss/VideoProcessing)** | Event-driven asynchronous video processing architecture offloading heavy tasks from Web API. | `.NET 8`, `RabbitMQ`, `Worker Service`, `Docker Compose` | [![.NET 8 CI](https://github.com/yusufkayiss/VideoProcessing/actions/workflows/dotnet.yml/badge.svg)](https://github.com/yusufkayiss/VideoProcessing) |
-| ⚙️ **[VideoCodec Engine](https://github.com/yusufkayiss/VideoCodec)** | High-performance core transcoding and processing engine designed for decoupled scalability. | `.NET 8`, `FFmpeg`, `xUnit`, `SOLID Principles` | [![.NET Core Codec CI & Tests](https://github.com/yusufkayiss/VideoCodec/actions/workflows/dotnet.yml/badge.svg)](https://github.com/yusufkayiss/VideoCodec) |
-| 🛒 **[E-Commerce Core API](https://github.com/yusufkayiss/ecommerce-core-api)** | Secure, production-ready enterprise REST API with transactional order and inventory controls. | `Java 17`, `Spring Boot 3`, `JWT`, `Spring Security` | [![Java CI with Maven](https://github.com/yusufkayiss/ecommerce-core-api/actions/workflows/maven.yml/badge.svg)](https://github.com/yusufkayiss/ecommerce-core-api) |
+| 🎬 **[video-processing](https://github.com/yusufkayiss/video-processing)** | Event-driven asynchronous video processing architecture offloading heavy tasks from Web API. | `.NET 8`, `RabbitMQ`, `Worker Service`, `Docker Compose` | [![.NET 8 CI](https://github.com/yusufkayiss/video-processing/actions/workflows/dotnet.yml/badge.svg)](https://github.com/yusufkayiss/video-processing) |
+| ⚙️ **[video-codec](https://github.com/yusufkayiss/video-codec)** | High-performance core transcoding and processing engine designed for decoupled scalability. | `.NET 8`, `FFmpeg`, `xUnit`, `SOLID Principles` | [![.NET Core Codec CI & Tests](https://github.com/yusufkayiss/video-codec/actions/workflows/dotnet.yml/badge.svg)](https://github.com/yusufkayiss/video-codec) |
+| 🛒 **[ecommerce-core-api](https://github.com/yusufkayiss/ecommerce-core-api)** | Secure, production-ready enterprise REST API with transactional order and inventory controls. | `Java 17`, `Spring Boot 3`, `JWT`, `Spring Security` | [![Java CI with Maven](https://github.com/yusufkayiss/ecommerce-core-api/actions/workflows/maven.yml/badge.svg)](https://github.com/yusufkayiss/ecommerce-core-api) |
 
 ---
 
