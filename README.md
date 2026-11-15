@@ -55,9 +55,10 @@ Passionate Backend Engineer focused on building scalable event-driven architectu
 
 ### 📊 Stats
 
-![Yusuf Taha Kayış GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=yusufkayiss&show_icons=true&include_all_commits=true&hide=stars,prs,issues,contrib,contribs&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d)
-
-![Most Used Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yusufkayiss&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d)
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yusufkayiss&show_icons=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d" alt="Yusuf Taha Kayış GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufkayiss&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d" alt="Most Used Languages" />
+</p>
 
 ---
 
