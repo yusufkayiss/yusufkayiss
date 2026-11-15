@@ -53,12 +53,11 @@ Passionate Backend Engineer focused on building scalable event-driven architectu
 
 ---
 
-### 📊 GitHub Statistics
+### 📊 Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-one-bice-82.vercel.app/api?username=yusufkayiss&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats-one-bice-82.vercel.app/api/top-langs/?username=yusufkayiss&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+![Yusuf Taha Kayış GitHub Stats](https://github-readme-stats-one-bice-82.vercel.app/api?username=yusufkayiss&show_icons=true&include_all_commits=true&hide=stars,prs,issues,contrib,contribs&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d)
+
+![Most Used Languages](https://github-readme-stats-one-bice-82.vercel.app/api/top-langs/?username=yusufkayiss&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d)
 
 ---
 
