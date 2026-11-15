@@ -53,6 +53,15 @@ Passionate Backend Engineer focused on building scalable event-driven architectu
 
 ---
 
+### 📊 GitHub Statistics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-one-bice-82.vercel.app/api?username=yusufkayiss&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats-one-bice-82.vercel.app/api/top-langs/?username=yusufkayiss&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
 ### 📫 Let's Connect!
 
 - 💼 **LinkedIn:** [linkedin.com/in/yusuftahakayis](https://linkedin.com/in/yusuftahakayis)
