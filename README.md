@@ -53,14 +53,6 @@ Passionate Backend Engineer focused on building scalable event-driven architectu
 
 ---
 
-### 📊 Stats
-
-![Yusuf Taha Kayış GitHub Stats](./assets/stats.svg)
-
-![Most Used Languages](./assets/top-langs.svg)
-
----
-
 ### 📫 Let's Connect!
 
 - 💼 **LinkedIn:** [linkedin.com/in/yusuftahakayis](https://linkedin.com/in/yusuftahakayis)
