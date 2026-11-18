@@ -27,7 +27,7 @@ Passionate Backend Engineer focused on building scalable event-driven architectu
     <td width="50%" valign="top">
       <h4>Cloud • DevOps</h4>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=docker,githubactions,linux" />
+        <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,linux" />
       </a>
     </td>
     <td width="50%" valign="top">
@@ -47,9 +47,9 @@ Passionate Backend Engineer focused on building scalable event-driven architectu
 | :--- | :--- | :--- | :---: |
 | 🎬 **[video-processing](https://github.com/yusufkayiss/video-processing)** | Event-driven asynchronous video processing architecture offloading heavy tasks from Web API. | `.NET 8`, `RabbitMQ`, `Worker Service`, `Docker Compose` | [![.NET 8 CI](https://github.com/yusufkayiss/video-processing/actions/workflows/dotnet.yml/badge.svg)](https://github.com/yusufkayiss/video-processing) |
 | ⚙️ **[video-codec](https://github.com/yusufkayiss/video-codec)** | High-performance core transcoding and processing engine designed for decoupled scalability. | `.NET 8`, `FFmpeg`, `xUnit`, `SOLID Principles` | [![.NET Core Codec CI & Tests](https://github.com/yusufkayiss/video-codec/actions/workflows/dotnet.yml/badge.svg)](https://github.com/yusufkayiss/video-codec) |
-| 🚪 **[api-gateway](https://github.com/yusufkayiss/api-gateway)** | Central API Gateway with dynamic Redis rate limiting, reactive routing, and network resilience. | `Java 21`, `Spring Cloud Gateway`, `Redis`, `Docker` | [![Java CI with Maven](https://github.com/yusufkayiss/api-gateway/actions/workflows/maven.yml/badge.svg?branch=main)](https://github.com/yusufkayiss/api-gateway/actions) |
-| 🛒 **[ecommerce-core-api](https://github.com/yusufkayiss/ecommerce-core-api)** | Event-driven e-commerce microservices architecture with containerized core engine, transactional controls, and Redis caching. | `Java 21`, `Spring Boot 3`, `RabbitMQ`, `Docker Compose`, `PostgreSQL`, `Redis` | [![Java CI with Maven](https://github.com/yusufkayiss/ecommerce-core-api/actions/workflows/maven.yml/badge.svg)](https://github.com/yusufkayiss/ecommerce-core-api) |
-| 🔔 **[notification-service](https://github.com/yusufkayiss/notification-service)** | Decoupled microservice consuming real-time order events via RabbitMQ message queue for email simulation. | `Java 21`, `Spring Boot 3`, `RabbitMQ`, `Docker` | [![Java CI with Maven](https://github.com/yusufkayiss/notification-service/actions/workflows/maven.yml/badge.svg)](https://github.com/yusufkayiss/notification-service) |
+| 🚪 **[api-gateway](https://github.com/yusufkayiss/api-gateway)** | Central API Gateway with stateless JWT security, Redis rate limiting, and Resilience4j circuit breakers. | `Java 21`, `Spring Cloud Gateway`, `Redis`, `JWT`, `Resilience4j`, `Kubernetes` | [![Java CI with Maven](https://github.com/yusufkayiss/api-gateway/actions/workflows/maven.yml/badge.svg?branch=main)](https://github.com/yusufkayiss/api-gateway/actions) |
+| 🛒 **[ecommerce-core-api](https://github.com/yusufkayiss/ecommerce-core-api)** | Event-driven e-commerce microservices core with transactional stock control, RabbitMQ events, and Redis caching. | `Java 21`, `Spring Boot 4`, `RabbitMQ`, `PostgreSQL`, `Redis`, `Docker Compose` | [![Java CI with Maven](https://github.com/yusufkayiss/ecommerce-core-api/actions/workflows/maven.yml/badge.svg)](https://github.com/yusufkayiss/ecommerce-core-api) |
+| 🔔 **[notification-service](https://github.com/yusufkayiss/notification-service)** | Decoupled microservice consuming real-time order events via RabbitMQ message queue for async notifications. | `Java 21`, `Spring Boot 4`, `RabbitMQ`, `Docker` | [![Java CI with Maven](https://github.com/yusufkayiss/notification-service/actions/workflows/maven.yml/badge.svg)](https://github.com/yusufkayiss/notification-service) |
 
 ---
 
